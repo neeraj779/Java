@@ -8,5 +8,7 @@ class Solution {
         int c = sc.nextInt();
 
         System.out.println(a + "\n" + b + "\n" + c);
+        sc.close();
     }
+    
 }
