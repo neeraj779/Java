@@ -6,4 +6,6 @@
 ---
 <p> Here you can find the link of all latest <b><i>Java HackerRank</i></b> Solution</p>
   
-  - [Array List](https://github.com/Psingh12354/Java-HackeRank/blob/master/ArrayList.java)
+  - [Welcome to Java!](https://github.com/neeraj779/Java/blob/main/Welcome_to_Java!.java)
+  - [Java Stdin and Stdout I](https://github.com/neeraj779/Java/blob/main/Java_Stdin_and_Stdout_I.java)
+  - [Java If-Else](https://github.com/neeraj779/Java/blob/main/Java_If_Else.java)
