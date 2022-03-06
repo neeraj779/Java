@@ -12,6 +12,7 @@ class Solution {
             } else {
                 System.out.println("Not Weird");
             }
+            
 
         } else {
             System.out.println("Weird");
