@@ -8,4 +8,7 @@
   
   - [Welcome to Java!](https://github.com/neeraj779/Java/blob/main/Welcome_to_Java!.java)
   - [Java Stdin and Stdout I](https://github.com/neeraj779/Java/blob/main/Java_Stdin_and_Stdout_I.java)
+  - [Java Stdin and Stdout II](https://github.com/neeraj779/Java/blob/main/Java_Stdin_and_Stdout_II.java)
   - [Java If-Else](https://github.com/neeraj779/Java/blob/main/Java_If_Else.java)
+  - [Java Loops I](https://github.com/neeraj779/Java/blob/main/Java_loops_I.java)
+  - [Java Loops II](https://github.com/neeraj779/Java/blob/main/Java_Loops_II.java)
